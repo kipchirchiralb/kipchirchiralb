@@ -7,7 +7,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Full Stack Web App (NodeJS, ExpressJS, HTML5, CSS3)</b>
+- <b>Full Stack Web App (NodeJS, ExpressJS, HTML5, CSS3, SQL)</b>
   - [E-commerce Online Store](https://github.com/kipchirchiralb/maya-computers)
  
   - [Tidings - A Social Media Web Application](https://github.com/kipchirchiralb/tidings)
