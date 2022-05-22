@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my first MERN app.
 - 🌱 I’m currently learning DevOps.
 - 👯 I’m looking to collaborate on MERN projects.
-- 👨‍💻 I’m looking for an Internship Opportunity, to learn from production products.
+- 👨‍💻 I’m looking for an Internship Opportunity, to learn from production level projects.
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
