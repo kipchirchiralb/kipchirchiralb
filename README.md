@@ -1,7 +1,6 @@
 <h1>Hi, I'm Albert! <br/><a href="https://github.com/kipchirchiralb">Programmer</a>, <a href="https://www.linkedin.com/in/albert-kipchirchir-34432411a/">Fullstack Developer</a>.</h1>
 
-- 🔭 I’m currently working on my first MERN app.
-- 🌱 I’m currently learning Redux.
+- 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on MERN projects.
 - 👨‍💻 I’m looking for an Internship Opportunity, to learn from production level projects.
 
