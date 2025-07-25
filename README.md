@@ -1,16 +1,20 @@
-<h1>Hi, I'm Albert! <br/><a href="https://github.com/kipchirchiralb">Programmer</a>, <a href="https://www.linkedin.com/in/albert-kipchirchir-34432411a/">Fullstack Developer</a>.</h1>
-
-- 🌱 I’m currently learning React Native.
-- 👯 I’m looking to collaborate on MERN projects.
-- 👨‍💻 I help new developers build their first projects.
+# Hi, I'm Albert!
 
 
 
-<h2> 🤳 Connect with me:</h2>
+I'm a **Full-Stack Developer** with a strong focus on **Node.js** and expertise in building scalable web applications using the **MERN stack** (MongoDB, Express.js, React, Node.js). I'm also proficient in other web technologies like **Laravel** and **Python Django**, and I’ve explored mobile app development with **Kotlin**.
 
-[<img align="left" alt="AlbertKipchirchir | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="AlbertKipchirchir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+As an **instructor at EldoHub**, I empower young people with core digital skills, teaching them to thrive in the tech world through hands-on training in programming and software development. I love helping new developers build their first projects and sharing my knowledge to inspire the next generation of tech innovators.
 
-[twitter]: https://twitter.com/kipchirchirdev 
-[linkedin]: https://linkedin.com/in/albert-kipchirchir-34432411a
+- 🌱 **Currently learning**: React Native to expand my mobile development skills.
+- 👯 **Looking to collaborate on**: MERN stack projects or open-source initiatives.
+- 💡 **Passionate about**: Training, mentoring, and building solutions that make an impact.
 
+---
+
+## 🤳 Connect with Me
+
+- **GitHub**: kipchirchiralb
+- **LinkedIn**: Albert Kipchirchir
+- **Twitter**: kipchirchirdev
+- **Hashnode**: My Blog (Check out my technical articles and tutorials!)
